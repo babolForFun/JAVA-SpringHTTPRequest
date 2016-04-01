@@ -12,7 +12,7 @@
 	</head>
 
 	<body>
-		<h1>Base template</h1>
+		<h1>Make HTTP request</h1>
 		<div class="container">
 			<div class="row">
 			    <div class="col-md-4"> </div>
@@ -24,7 +24,7 @@
 							</label>
 							<input type="text" class="form-control" id="url" name="url"/>
 						</div>
-						<button type="submit" class="btn btn-default" value="Send Request">
+						<button type="submit" class="btn btn-primary" value="Send Request">
 							Send Request
 						</button>
 					</form>
