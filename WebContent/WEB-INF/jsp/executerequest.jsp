@@ -25,6 +25,7 @@
 					<br><h3>Body</h3>
 					${body}
 					
+					<br><br>
 					<a href="../index.jsp">
 						<button type="submit" class="btn btn-primary" value="Send Request">
 							Home
